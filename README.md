@@ -4,7 +4,7 @@ I am passionate in software engineering and computer networking. I have experien
 #### Social Media
 - 🔭 LinkedIn: www.linkedin.com/in/omairmangondaya
 - 🌱 Facebook: https://www.facebook.com/omairmangondaya.alamada/
-- 👯 Instagram: @umair
+- 👯 Instagram: @umair.ph
 - ⚡ Fun fact: I am agile developer.
 
 #### Contact Me
