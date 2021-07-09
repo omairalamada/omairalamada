@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋 I'm Omair Mangondaya</h2>
-<h5 align="left">I am passionate in software engineering and computer networking. I have experience working in an agile/scrum development process. I have a background in web development using CSS, HTML5/HTML, JavaScript, NodeJS, Spring-boot, and also with experience in cross-platform framework using VueJS/Quasar and git as source control.</h3>
+<h4 align="left">I am passionate in software engineering and computer networking. I have experience working in an agile/scrum development process. I have a background in web development using CSS, HTML5/HTML, JavaScript, NodeJS, Spring-boot, and also with experience in cross-platform framework using VueJS/Quasar and git as source control.</h4>
 
 - 🔭 I’m currently working on [voice-caster app](https://voice-caster.web.app/#/)
 
