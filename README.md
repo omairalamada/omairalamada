@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [voice-caster app](https://voice-caster.web.app/#/)
 
-- 🌱 I’m currently learning **spring-boot**
+- 🌱 I’m currently learning **spring-boot and nestjs**
 
 - 💬 Ask me about **vue and quasar**
 
