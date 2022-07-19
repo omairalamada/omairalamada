@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋 I'm Omair Mangondaya</h2>
-<h4 align="left">I am passionate in software engineering and computer networking. I have experienced working in an agile/scrum development process.</h4>
+<h4 align="left">I am passionate in software engineering and computer networking. I have experience working in an agile/scrum development process.</h4>
 
 - 🔭 I’m currently working on [voice-caster app](https://voice-caster.web.app/#/), queueing system and vaccination system.
 
